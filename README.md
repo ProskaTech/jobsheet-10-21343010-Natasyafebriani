@@ -1,6 +1,7 @@
 ## Object-oriented Programming (Lab Work) Template Guides
 Natasya febriani-21343010
-Materi : Class, Object, Property, Method, Constructor, dan Visibility
+Materi : Class, Object, Property, Method, Constructor, dan Visibility.
+
 Class merupakan blueprint/rancangan dari suatu objek. Class adalah gambaran umum dari suatu objek.
 
 objek adalah hasil cetak dari class, atau bisa juga disebut hasil konkrit dari class.
